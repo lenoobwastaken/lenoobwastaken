@@ -1,7 +1,7 @@
 ### Allah cured my Schizophrenia 😎
 ![lenoobwastaken github stats](https://github-readme-stats.vercel.app/api?username=lenoobwastaken&show_icons=true&hide_border=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoobwastaken&theme=tokyonight)
-                                                                                       
+- ![](https://komarev.com/ghpvc/?username=lenoobwastaken&color=blueviolet)                                                                     
    
    
    
