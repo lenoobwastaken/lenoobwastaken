@@ -5,7 +5,7 @@
    
    
    
-C#, ex Node Js dev, trying to learn other languages such as : Rust and C++ (C++ is hell)
+Experienced with C# , C++/C Newbie, Currently Learning C++/C && C++/C Reverse Engineering 
 - Join my discord for info on projects and other funnies https://discord.gg/QEzc337xsv
 <!--
 **lenoobwastaken/lenoobwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
