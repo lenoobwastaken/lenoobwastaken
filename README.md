@@ -5,6 +5,7 @@
    
    
 Experienced with C#, C++/C Newbie, Currently Learning C++/C Reverse Engineering 
+- You can support me here https://www.buymeacoffee.com/LenoobIsPoor
 - Join my discord for info on projects and other funnies https://discord.gg/QEzc337xsv
 <!--
 **lenoobwastaken/lenoobwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
