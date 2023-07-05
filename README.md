@@ -2,8 +2,7 @@
 ![lenoobwastaken github stats](https://github-readme-stats.vercel.app/api?username=lenoobwastaken&show_icons=true&hide_border=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoobwastaken&theme=tokyonight)
    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=viy8n0ina6wxjombp7klgsvon&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ff0093&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=viy8n0ina6wxjombp7klgsvon&redirect=true)
-   
+
 Experienced with C#, C++/C Newbie, Currently Learning C++/C Reverse Engineering 
 - You can support me here https://www.buymeacoffee.com/LenoobIsPoor or https://paypal.me/lenoobforeskin
 - Join my discord for info on projects and other funnies https://discord.gg/QEzc337xsv
